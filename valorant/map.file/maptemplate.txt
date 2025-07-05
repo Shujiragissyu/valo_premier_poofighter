@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>MAP & DATE</title>
+</head>
+<body>
+  <h1>MAP NAME</h1>
+  <h2>キャラピック</h2>
+  <p>qSister：</p><a href=".html"></a><br>
+  <p>シ束頁：</p><a href=".html"></a><br>
+  <p>Shujiragissyu：</p><a href=".html"></a><br>
+  <p>unkMAnDx：</p><a href=".html"></a><br>
+  <p>zanpan：</p><a href=".html"></a><br>
+  <p>Tolpy：</p><a href=".html"></a><br>
+</body>
+</html>

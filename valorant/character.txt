@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+  <style>
+    body {
+      font-size: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>MAP & CHARA</h1>
+  <p>デフォルト：</p>
+  <p>ホールド：</p>
+  <p>プッシュ：</p>
+  <p>カウンター：</p>
+  <p>スプリット：</p>
+  <p>コンタクト：</p>
+  <p>セットアップ：</p>
+  <p>定点：</p>
+</body>
+</html>
